@@ -1,4 +1,4 @@
-<h2> Hola! Soy Luis.</h2>
+<h2>Hey there! I'm Luis.</h2>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
