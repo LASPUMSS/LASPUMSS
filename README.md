@@ -1,7 +1,7 @@
 <h2>Hey there! I'm Alberto.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 &nbsp; Studying Financial Engineering at _University Mayor De San Simon_.
+- 🎓 &nbsp; Studying Financial Engineering at __University Mayor De San Simon__.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
