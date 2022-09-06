@@ -23,7 +23,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-<h3> 🖥 &nbsp;Books</h3>
+<h3> 📚 &nbsp;Books</h3>
 
 - [GRAFICOS CON DATOS](https://laspumss.github.io/GRAFICOS-CON-DATOS/)
 
