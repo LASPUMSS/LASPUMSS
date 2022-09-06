@@ -13,6 +13,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Visual_Basic.png)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
