@@ -29,4 +29,4 @@
 
 <h3> 📝 &nbsp;Others</h3>
 
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) : [LASPUMSS](https://www.blogger.com/profile/16844125043387300370)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/16844125043387300370)
