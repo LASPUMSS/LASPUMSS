@@ -26,3 +26,7 @@
 <h3> 🖥 &nbsp;Books</h3>
 
 - [GRAFICOS CON DATOS](https://laspumss.github.io/GRAFICOS-CON-DATOS/)
+
+<h3> 📝 &nbsp;Others</h3>
+
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) : [LASPUMSS](https://www.blogger.com/profile/16844125043387300370)
