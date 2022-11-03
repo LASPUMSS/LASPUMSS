@@ -1,3 +1,11 @@
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
 <h2>Hey there! I'm Alberto.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
