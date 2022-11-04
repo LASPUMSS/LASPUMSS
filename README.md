@@ -16,12 +16,12 @@
   [![](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/R.png)](#HEAD)
 - ⚙️ &nbsp;
   [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#HEAD)
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](#)
-  [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://github.com/LASPUMSS)
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](#HEAD)
+  [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](#HEAD)
 - 🔧 &nbsp;
-  [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/LASPUMSS)
-  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/LASPUMSS)
-  [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://github.com/LASPUMSS)
+  [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#HEAD)
+  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#HEAD)
+  [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](#HEAD)
 
 <h3> 📚 &nbsp;Books</h3>
 
