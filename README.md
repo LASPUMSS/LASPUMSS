@@ -7,7 +7,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  [![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](https://github.com/LASPUMSS)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5){: width=150 height=100}
   [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/LASPUMSS)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://github.com/LASPUMSS)
 - 💻 &nbsp;
