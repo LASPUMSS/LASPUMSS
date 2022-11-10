@@ -27,6 +27,10 @@
 
 - [GRAFICOS CON DATOS](https://laspumss.github.io/GRAFICOS-CON-DATOS/)
 
+<h3> 🌐 &nbsp;Pages</h3>
+
+- [PLANTILLAS SHINY APPS](https://laspumss.github.io/PLANTILLAS-SHINY-APPS/)
+
 <h3> 📝 &nbsp;Others</h3>
 
 - [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/16844125043387300370)
