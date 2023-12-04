@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Financial Engineering at **University Mayor De San Simon**.
+- 🎓 &nbsp; Financial Engineering at **University Mayor De San Simon**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
