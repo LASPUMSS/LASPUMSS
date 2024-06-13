@@ -32,6 +32,7 @@
 <h3> 🌐 &nbsp;Pages</h3>
 
 - [PLANTILLAS SHINY APPS](https://laspumss.github.io/PLANTILLAS-SHINY-APPS/)
+- [BLOG ECONOMIA Y FINANZAS](https://primero-los-datos-economia-finanzas.blogspot.com/)
 
 <h3> 📝 &nbsp;Others</h3>
 
